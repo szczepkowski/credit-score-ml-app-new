@@ -1,3 +1,5 @@
+END to END application for credit scoring with Angular FE, Java API CORE, and ML scoring model 
+
 Credit Score ML app
 
 This application have 3 layers 
